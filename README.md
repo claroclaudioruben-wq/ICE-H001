@@ -1,4 +1,13 @@
 # ICE-H001
+## ¿Qué es ICE?
+
+La Inteligencia Compuesta Evolutiva (ICE) es un método de investigación orientado a estudiar cómo evoluciona el conocimiento mediante evidencia verificable.
+
+Su propósito es transformar experiencias, datos y resultados en conocimiento que pueda mejorar de manera continua a través de un proceso transparente, trazable y replicable.
+
+ICE incorpora nuevas mejoras únicamente cuando la evidencia acumulada las respalda, priorizando la validación sobre la autoridad o la intuición.
+
+Este repositorio documenta públicamente el desarrollo, la validación y la evolución del método.
 
 ## Inteligencia Compuesta Evolutiva (ICE)
 
